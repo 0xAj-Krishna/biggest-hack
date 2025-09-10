@@ -1,4 +1,4 @@
-# Biggest Hacks & Vulnerabilities (2021–2024)
+# Biggest Hacks & Vulnerabilities
 
 This repository contains detailed writeups of the 18 biggest vulnerabilities and hacks discovered between 2021 and 2024.
 
