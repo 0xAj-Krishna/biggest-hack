@@ -1,6 +1,6 @@
 # Biggest Hacks & Vulnerabilities
 
-This repository contains detailed writeups of the 18 biggest vulnerabilities and hacks discovered.
+This repository contains detailed writeups of the biggest vulnerabilities and hacks discovered.
 
 ## 📂 Vulnerabilities
 - [XZ Utils Supply-chain Backdoor (CVE-2024-3094)](vulnerabilities/xz-utils-backdoor.md)
