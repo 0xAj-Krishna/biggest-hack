@@ -1,6 +1,6 @@
 # Biggest Hacks & Vulnerabilities
 
-This repository contains detailed writeups of the 18 biggest vulnerabilities and hacks discovered between 2021 and 2024.
+This repository contains detailed writeups of the 18 biggest vulnerabilities and hacks discovered.
 
 ## 📂 Vulnerabilities
 - [XZ Utils Supply-chain Backdoor (CVE-2024-3094)](vulnerabilities/xz-utils-backdoor.md)
@@ -21,6 +21,7 @@ This repository contains detailed writeups of the 18 biggest vulnerabilities and
 - [Zoho ManageEngine ADSelfService RCE (CVE-2021-40539)](vulnerabilities/zoho-manageengine.md)
 - [QNAP QTS/QuTS Hero RCE (CVE-2023-23368)](vulnerabilities/qnap-rce.md)
 - [Oracle WebLogic Server RCE (CVE-2023-21839)](vulnerabilities/weblogic-rce.md)
+- [PostgreSQL psql Tool SQL Injection (CVE‑2025‑1094)](vulnerabilities/psql-rce.md)
 
 ---
 Maintained by [0xAj-Krishna](https://github.com/0xAj-Krishna)
